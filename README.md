@@ -6,7 +6,7 @@ https://niharikadhanavath.github.io/Pixel-Snake/
 
 But if you want to play the game on the pygame window on your device, please follow the following instructions:
 1. Open bash, and enter, "pip install pygame"
-2. Downlload the file on my repository named, "snake_game.py."
+2. Download the file on my repository named, "snake_game.py."
 3. Open bash again and enter, "python snake_game.py"
 
 # Play-the-game
