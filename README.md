@@ -2,6 +2,7 @@
 
 I developed the classic snake game using Python's Pygame library. To take things up a notch, I have turned a game into a website. 
 Here's the link: 
+https://niharikadhanavath.github.io/Pixel-Snake/
 
 But if you want to play the game on the pygame window on your device, please follow the following instructions:
 1. Open bash, and enter, "pip install pygame"
